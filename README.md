@@ -1,4 +1,5 @@
 # Proyecto Individual Nº2 - Telecomunicaciones
+
 ![image](https://github.com/user-attachments/assets/e018fdf8-3b05-4aba-9d7d-6456f423b1d0)
 
 ## Descripción del Proyecto
@@ -9,7 +10,53 @@ Este proyecto se centra en el análisis de datos del sector de telecomunicacione
 - Construir un dashboard interactivo para la visualización de KPIs.
 - Analizar tendencias y patrones en los datos.
 - Documentar el proceso y hallazgos en un repositorio de GitHub.
-- (Opcional) Integrar una base de datos SQL y ejecutar scripts en herramientas de visualización.
+
+## Selección de Datos
+Para este análisis, se utilizaron datos abiertos del **Ente Nacional de Comunicaciones (ENACOM)**, disponibles en su plataforma oficial: [ENACOM - Datos Abiertos](https://indicadores.enacom.gob.ar/datos-abiertos-servicios).
+
+### Tablas Utilizadas y Descripción:
+#### 1. **Internet**
+- Contiene información desde 2014 hasta 2024, desglosada por provincia y trimestre.
+- Variables clave: total de hogares, población, penetración de internet, velocidad de conexión y tipo de tecnología (ADSL, Cablemódem, Fibra óptica, Wireless, Otros).
+- Incluye datos sobre ingresos por servicio.
+
+#### 2. **Telefonía Móvil**
+- Datos desde 2013, discriminados por prepago y pospago.
+- Incluye: cantidad de llamadas, minutos totales, acceso y penetración.
+- Contiene información sobre ingresos por trimestre y problemas reportados en el servicio.
+
+#### 3. **Televisión**
+- Información sobre acceso y penetración de TV paga y TV abierta.
+- Datos desglosados por provincia y trimestre desde 2014.
+
+#### 4. **Telefonía Fija**
+- Datos de acceso total por hogares, comercio, gobierno y otros.
+- Métricas de penetración por cada 100 habitantes y 100 hogares.
+- Datos de ingresos por servicio, disponibles por provincia y trimestre desde 2014.
+
+#### 5. **Portabilidad Numérica**
+- Registra la cantidad total de portaciones por mes en Argentina desde 2012 hasta 2024.
+
+#### 6. **Servicios Postales**
+- Datos sobre ventas y unidades de servicios postales, telegráficos y monetarios.
+- Información desglosada por trimestre, mes y provincia desde 2013 hasta 2025.
+- Incluye datos sobre el empleo en el sector postal.
+
+#### 7. **Mapa de Conectividad**
+- Muestra la disponibilidad de tecnologías de conexión (ADSL, Cablemódem, Dial Up, Fibra óptica, Satelital, Wireless, Telefonía Fija, 3G, 4G) por localidad.
+- Datos organizados por localidad, partido y provincia.
+- Contiene información sobre la población estimada.
+
+## Criterios de Selección y Transformación de Datos
+El enfoque del análisis se basa en la relevancia de cada conjunto de datos para el objetivo del proyecto:
+- **Internet**: Se priorizan los datos a nivel provincial y total, descartando el desglose por localidades para facilitar el análisis.
+- **Mapa de Conectividad**: Se transforma la información para obtener datos por provincia en lugar de localidades, permitiendo evaluar la disponibilidad de tecnología a nivel macro.
+- **Portabilidad**: Se utiliza la tabla completa, ya que contiene datos consolidados de portabilidad numérica.
+- **Televisión**: Se analizan los accesos totales por año, trimestre y tipo de televisión (satelital y por suscripción).
+- **Telefonía Fija**: Se emplea la hoja de accesos totales, discriminando por categorías (Total, Hogares, Comercio, Gobierno y Otros).
+
+Este proceso de selección y transformación garantiza que el análisis sea eficiente y enfocado en los aspectos más relevantes para la evaluación de las telecomunicaciones en Argentina.
+
 
 ## Tecnologías Utilizadas
 - **Lenguaje de Programación**: Python
