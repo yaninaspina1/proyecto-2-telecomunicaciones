@@ -66,7 +66,7 @@ Telefonía Móvil: Se utilizaron las hojas de ingresos y penetración total
 Este proceso de selección y transformación garantiza que el análisis sea eficiente y enfocado en los aspectos más relevantes para la evaluación de las telecomunicaciones en Argentina.
 
 
-Estructura del Repositorio
+##Estructura del Repositorio
 
 Dataset/
 
@@ -90,25 +90,39 @@ El archivo que estás leyendo. Contiene la descripción del proyecto, objetivos,
 ## Tecnologías Utilizadas
 - **Lenguaje de Programación**: Python
 - **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Dash/Streamlit (según aplicación)
-- **Herramientas de Visualización**: Power BI / 
+- **Herramientas de Visualización**: Power BI 
 - **Control de Versiones**: Git/GitHub
 
-## Estructura del Repositorio
-```
-├── data/                # Datos utilizados en el análisis
-├── notebooks/           # Jupyter Notebooks con el EDA y análisis
-├── dashboard/           # Archivos relacionados con el dashboard interactivo
-├── src/                 # Scripts utilizados en el análisis
-├── README.md            # Documentación del proyecto
-└── requirements.txt     # Dependencias necesarias para ejecutar el proyecto
-```
 
-## Análisis de Datos
-Se realizaron diversas técnicas de análisis, tales como:
-- Limpieza y preprocesamiento de datos.
-- Análisis descriptivo de variables clave.
-- Visualización de distribuciones y tendencias.
-- Evaluación de correlaciones y patrones en los datos.
+```
+Análisis de Datos
+Se implementaron diversas técnicas para explorar y comprender los datos, asegurando su calidad y relevancia para el análisis.
+
+1. Limpieza y Preprocesamiento de Datos
+Se eliminaron valores nulos y duplicados.
+Se estandarizaron los formatos de fechas y nombres de provincias.
+Se crearon variables binarias para facilitar el análisis de disponibilidad de tecnologías.
+2. Análisis Descriptivo de Variables Clave
+Se realizó un análisis detallado de las principales variables para identificar patrones y distribuciones.
+
+Accesos a Internet por Tipo de Tecnología
+📊 Gráfico: Distribución de accesos a Internet por tipo de conexión en Argentina
+✅ Conclusión: La fibra óptica muestra un crecimiento sostenido en los últimos años, desplazando progresivamente tecnologías como el ADSL.
+
+Evolución de Penetración de Telefonía Móvil
+📉 Gráfico: Tasa de penetración de telefonía móvil por provincia (2013-2024)
+✅ Conclusión: Se observa una estabilización en el acceso móvil con un leve crecimiento en provincias con menor conectividad previa.
+
+Ingresos por Servicio de Telecomunicaciones
+📈 Gráfico: Ingresos anuales por tipo de servicio (Internet, Telefonía, TV paga, Postal)
+✅ Conclusión: El sector de Internet ha experimentado un crecimiento exponencial en ingresos, mientras que la telefonía fija ha mostrado una caída sostenida.
+
+3. Evaluación de Correlaciones y Patrones
+🔍 Se analizaron correlaciones entre variables clave, identificando relaciones como:
+
+Alta correlación entre ingresos y cantidad de accesos en telefonía móvil e Internet.
+Tendencia negativa en la penetración de telefonía fija, reflejando la transición a tecnologías móviles.
+
 
 ## Dashboard Interactivo
 Se desarrolló un dashboard utilizando [Power BI ] para visualizar los principales indicadores del sector de telecomunicaciones. Algunas de las visualizaciones incluidas son:
