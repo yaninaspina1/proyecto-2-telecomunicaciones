@@ -48,12 +48,20 @@ Para este análisis, se utilizaron datos abiertos del **Ente Nacional de Comunic
 - Contiene información sobre la población estimada.
 
 ## Criterios de Selección y Transformación de Datos
+
 El enfoque del análisis se basa en la relevancia de cada conjunto de datos para el objetivo del proyecto:
-- **Internet**: Se priorizan los datos a nivel provincial y total, descartando el desglose por localidades para facilitar el análisis.
-- **Mapa de Conectividad**: Se transforma la información para obtener datos por provincia en lugar de localidades, permitiendo evaluar la disponibilidad de tecnología a nivel macro.
-- **Portabilidad**: Se utiliza la tabla completa, ya que contiene datos consolidados de portabilidad numérica.
-- **Televisión**: Se analizan los accesos totales por año, trimestre y tipo de televisión (satelital y por suscripción).
-- **Telefonía Fija**: Se emplea la hoja de accesos totales, discriminando por categorías (Total, Hogares, Comercio, Gobierno y Otros).
+
+Internet: Se priorizan los datos a nivel provincial y total, descartando el desglose por localidades para facilitar el análisis.
+
+Mapa de Conectividad: Se utilizaron únicamente las provincias y se transformaron los datos en binarios (Sí = 1, Null = 0) para facilitar su procesamiento.
+
+Portabilidad: Se utiliza la tabla completa, ya que contiene datos consolidados de portabilidad numérica.
+
+Televisión: Se analizan los accesos totales por año, trimestre y tipo de televisión (satelital y por suscripción).
+
+Telefonía Fija: Se emplea la hoja de penetración total, discriminando por categorías (Total, Hogares, Comercio, Gobierno y Otros) e ingresos.
+
+Telefonía Móvil: Se utilizaron las hojas de ingresos y penetración total
 
 Este proceso de selección y transformación garantiza que el análisis sea eficiente y enfocado en los aspectos más relevantes para la evaluación de las telecomunicaciones en Argentina.
 
