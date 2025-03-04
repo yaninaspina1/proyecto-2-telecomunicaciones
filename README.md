@@ -66,6 +66,27 @@ Telefonía Móvil: Se utilizaron las hojas de ingresos y penetración total
 Este proceso de selección y transformación garantiza que el análisis sea eficiente y enfocado en los aspectos más relevantes para la evaluación de las telecomunicaciones en Argentina.
 
 
+Estructura del Repositorio
+
+Dataset/
+
+Carpeta que contiene las planillas Excel con los datos utilizados para realizar el análisis.
+
+notebooks/
+
+Carpeta que contiene los Jupyter Notebooks utilizados en el análisis.
+
+EDA.ipynb: Aquí se realiza el proceso de extracción, transformación y limpieza de los datos. Se identificaron y eliminaron datos redundantes, atípicos y nulos, preparando la información para un análisis más limpio y efectivo. Se identifican tendencias, distribuciones y valores críticos. Las conclusiones de este análisis se utilizaron para diseñar el dashboard y se presentan en el informe.
+
+eda_complementario.ipynb: Análisis adicional de los datos para profundizar en ciertas métricas y tendencias relevantes.
+
+proyecto-telecomunicaciones.pbix
+
+Archivo del dashboard desarrollado en Power BI para la visualización de KPIs y métricas clave.
+
+README.md
+
+El archivo que estás leyendo. Contiene la descripción del proyecto, objetivos, estructura y documentación relevante.
 ## Tecnologías Utilizadas
 - **Lenguaje de Programación**: Python
 - **Bibliotecas**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Dash/Streamlit (según aplicación)
