@@ -94,63 +94,65 @@ El archivo que estás leyendo. Contiene la descripción del proyecto, objetivos,
 - **Control de Versiones**: Git/GitHub
 
 
-📈 Análisis de Datos
+## 📈 Análisis de Datos 
 
 Se implementaron diversas técnicas para explorar y comprender los datos, asegurando su calidad y relevancia.
 
-🔹 1. Limpieza y Preprocesamiento
+### 🔹 1. Limpieza y Preprocesamiento
 
-✅ Eliminación de valores nulos y duplicados.
-✅ Estandarización de formatos (fechas, nombres de provincias).
+✅ Eliminación de valores nulos y duplicados.  
+✅ Estandarización de formatos (fechas, nombres de provincias).  
 ✅ Creación de variables binarias para disponibilidad de tecnologías.
 
-🔹 2. Análisis Descriptivo de Variables Clave
+### 🔹 2. Análisis Descriptivo de Variables Clave
 
-📌 Evolución de Internet (2014-2024)
-main/image-1.png
-Conclusión: La fibra óptica ha desplazado al ADSL y al Cablemódem, evidenciando una transición hacia conexiones más rápidas y estables.
+#### 📌 Evolución de Internet (2014-2024)
+![Evolución de Internet](https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/blob/main/image-1.png)
 
-📌 Velocidad de Bajada por Provincia (2014-2024)
-image-1.png
+**Conclusión:** La fibra óptica ha desplazado al ADSL y al Cablemódem, evidenciando una transición hacia conexiones más rápidas y estables.
 
-https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/commit/10e8a47e22959afd1509d064c4fc21a915bec32b
-Conclusiones:
+#### 📌 Velocidad de Bajada por Provincia (2014-2024)
+![Velocidad de Bajada](https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/blob/main/image-2.png)
 
-Desde 2020, la mayoría de las provincias han incrementado su velocidad de bajada, reflejando mejoras en infraestructura.
+[Ver commit relacionado](https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/commit/10e8a47e22959afd1509d064c4fc21a915bec32b)
 
-Persisten desigualdades en algunas regiones, como Tierra del Fuego y Mendoza.
+**Conclusiones:**
+- Desde 2020, la mayoría de las provincias han incrementado su velocidad de bajada, reflejando mejoras en infraestructura.
+- Persisten desigualdades en algunas regiones, como Tierra del Fuego y Mendoza.
+- Se observa una aceleración en la adopción de tecnologías más rápidas (Fibra Óptica, 4G/5G).
 
-Se observa una aceleración en la adopción de tecnologías más rápidas (Fibra Óptica, 4G/5G).
+#### 📌 Ingresos en Telecomunicaciones
+![Ingresos en Telecomunicaciones](https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/blob/main/image-3.png)
 
-📌 Ingresos en Telecomunicaciones
-![image]https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/blob/main/image-3.png
-Conclusión: Crecimiento exponencial de ingresos hasta 2025, con un fuerte aumento a partir de 2022.
+**Conclusión:** Crecimiento exponencial de ingresos hasta 2025, con un fuerte aumento a partir de 2022.
 
-🔹 3. Evaluación de Correlaciones y Patrones
+---
 
-🔍 Hallazgos clave:
+### 🔹 3. Evaluación de Correlaciones y Patrones
 
-Alta correlación entre ingresos y cantidad de accesos en telefonía móvil e Internet.
+🔍 **Hallazgos clave:**
+- Alta correlación entre ingresos y cantidad de accesos en telefonía móvil e Internet.
+- Tendencia negativa en la penetración de telefonía fija, reflejando la migración a tecnologías móviles.
 
-Tendencia negativa en la penetración de telefonía fija, reflejando la migración a tecnologías móviles.
+---
 
-📊 Dashboard Interactivo
+## 📊 Dashboard Interactivo
 
 Se desarrolló un dashboard en Power BI para visualizar indicadores clave, incluyendo:
 
-📈 Evolución temporal de accesos e ingresos.
-
-📊 Comparaciones de KPIs entre distintas categorías.
-
+📈 Evolución temporal de accesos e ingresos.  
+📊 Comparaciones de KPIs entre distintas categorías.  
 🌍 Mapas de conectividad y cobertura.
 
-📌 Accede al dashboard en el archivo: proyecto-telecomunicaciones.pbix
+📌 **Accede al dashboard en el archivo:** `proyecto-telecomunicaciones.pbix`
 
-📌 Conclusiones
+---
 
-🔹 La fibra óptica es la tecnología dominante en Argentina.
-🔹 Se observan mejoras en la velocidad de conexión, aunque persisten desigualdades regionales.
-🔹 Los ingresos en telecomunicaciones han crecido exponencialmente en los últimos años.
+## 📌 Conclusiones
+
+🔹 La fibra óptica es la tecnología dominante en Argentina.  
+🔹 Se observan mejoras en la velocidad de conexión, aunque persisten desigualdades regionales.  
+🔹 Los ingresos en telecomunicaciones han crecido exponencialmente en los últimos años.  
 🔹 La telefonía fija continúa en declive debido a la adopción de tecnologías móviles.
 
 
