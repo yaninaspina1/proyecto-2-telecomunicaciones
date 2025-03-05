@@ -174,7 +174,7 @@ Si deseas contribuir a este proyecto, siéntete libre de hacer un fork, realizar
 
 ## Contacto
 Yanina Spina  
-[LinkedIn](https://www.linkedin.com/in/yaninaspina)  
+ 
 [GitHub](https://github.com/YaninaSpina1)
 
 ---
