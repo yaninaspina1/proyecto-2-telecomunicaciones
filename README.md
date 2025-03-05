@@ -107,11 +107,11 @@ Se implementaron diversas técnicas para explorar y comprender los datos, asegur
 🔹 2. Análisis Descriptivo de Variables Clave
 
 📌 Evolución de Internet (2014-2024)
-
+https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/blob/main/image-1.png
 Conclusión: La fibra óptica ha desplazado al ADSL y al Cablemódem, evidenciando una transición hacia conexiones más rápidas y estables.
 
 📌 Velocidad de Bajada por Provincia (2014-2024)
-
+https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/commit/10e8a47e22959afd1509d064c4fc21a915bec32b
 Conclusiones:
 
 Desde 2020, la mayoría de las provincias han incrementado su velocidad de bajada, reflejando mejoras en infraestructura.
@@ -121,7 +121,7 @@ Persisten desigualdades en algunas regiones, como Tierra del Fuego y Mendoza.
 Se observa una aceleración en la adopción de tecnologías más rápidas (Fibra Óptica, 4G/5G).
 
 📌 Ingresos en Telecomunicaciones
-
+https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/blob/main/image-3.png
 Conclusión: Crecimiento exponencial de ingresos hasta 2025, con un fuerte aumento a partir de 2022.
 
 🔹 3. Evaluación de Correlaciones y Patrones
@@ -151,11 +151,5 @@ Se desarrolló un dashboard en Power BI para visualizar indicadores clave, inclu
 🔹 Los ingresos en telecomunicaciones han crecido exponencialmente en los últimos años.
 🔹 La telefonía fija continúa en declive debido a la adopción de tecnologías móviles.
 
-📢 Próximos pasos:
 
-Profundizar en análisis de accesibilidad y costos.
-
-Explorar tendencias en consumo de datos móviles.
-
-Integrar modelos predictivos para estimar el crecimiento del sector.
 
