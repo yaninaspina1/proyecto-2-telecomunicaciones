@@ -107,7 +107,7 @@ Se implementaron diversas técnicas para explorar y comprender los datos, asegur
 ### 🔹 2. Análisis Descriptivo de Variables Clave
 
 #### 📌 Evolución de Internet (2014-2024)
-![Evolución de Internet]https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/blob/main/image.png
+![Evolución de Internet](https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/blob/main/image.png)
 
 **Conclusión:** La fibra óptica ha desplazado al ADSL y al Cablemódem, evidenciando una transición hacia conexiones más rápidas y estables.
 
@@ -122,7 +122,7 @@ Se implementaron diversas técnicas para explorar y comprender los datos, asegur
 - Se observa una aceleración en la adopción de tecnologías más rápidas (Fibra Óptica, 4G/5G).
 
 #### 📌 Ingresos en Telecomunicaciones
-![Ingresos en Telecomunicaciones]https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/blob/main/image-4.png
+![Ingresos en Telecomunicaciones](https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/blob/main/image-4.png)
 
 **Conclusión:** Crecimiento exponencial de ingresos hasta 2025, con un fuerte aumento a partir de 2022.
 
@@ -157,3 +157,12 @@ Se desarrolló un dashboard en Power BI para visualizar indicadores clave, inclu
 
 
 
+## Contribuciones
+Si deseas contribuir a este proyecto, siéntete libre de hacer un fork, realizar mejoras y enviar un pull request.
+
+## Contacto
+Yanina Spina  
+[LinkedIn](https://www.linkedin.com/in/yaninaspina)  
+[GitHub](https://github.com/YaninaSpina1)
+
+---
