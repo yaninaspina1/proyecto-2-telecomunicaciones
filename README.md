@@ -136,6 +136,7 @@ Se implementaron diversas técnicas para explorar y comprender los datos, asegur
 
 ---
 
+
 ## 📊 Dashboard Interactivo
 
 Se desarrolló un dashboard en Power BI para visualizar indicadores clave, incluyendo:
@@ -147,6 +148,19 @@ Se desarrolló un dashboard en Power BI para visualizar indicadores clave, inclu
 📌 **Accede al dashboard en el archivo:** `proyecto-telecomunicaciones.pbix`
 
 ---
+KPI:📌Aumentar el acceso al servicio x provincia
+🎯 Objetivo
+Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia.
+📌Aumentar el acceso a la fibra optica
+🎯 Objetivo
+Aumentar en un 7% el acceso a la fibra optica x provincia
+ 📌Ingreso Promedio por Usuario (ARPU - Average Revenue Per User)
+🎯 Objetivo
+Aumentar el ingreso x usuario en 3%
+ 📌Mejora de Velocidad en Provincias con Menor Conectividad
+🎯 Objetivo
+Aumentar en un 15% la velocidad de internet en las 5 provincias con menor velocidad promedio.
+resultados kpi:en el 2024 se cumpliron los kpi propuesto
 
 ## 📌 Conclusiones
 
@@ -154,8 +168,6 @@ Se desarrolló un dashboard en Power BI para visualizar indicadores clave, inclu
 🔹 Se observan mejoras en la velocidad de conexión, aunque persisten desigualdades regionales.  
 🔹 Los ingresos en telecomunicaciones han crecido exponencialmente en los últimos años.  
 🔹 La telefonía fija continúa en declive debido a la adopción de tecnologías móviles.
-
-
 
 ## Contribuciones
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork, realizar mejoras y enviar un pull request.
