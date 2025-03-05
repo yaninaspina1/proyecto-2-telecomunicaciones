@@ -94,55 +94,68 @@ El archivo que estás leyendo. Contiene la descripción del proyecto, objetivos,
 - **Control de Versiones**: Git/GitHub
 
 
-```## Análisis de Datos
-Se implementaron diversas técnicas para explorar y comprender los datos, asegurando su calidad y relevancia para el análisis.
+📈 Análisis de Datos
 
-1. Limpieza y Preprocesamiento de Datos
-Se eliminaron valores nulos y duplicados.
-Se estandarizaron los formatos de fechas y nombres de provincias.
-Se crearon variables binarias para facilitar el análisis de disponibilidad de tecnologías.
-2. Análisis Descriptivo de Variables Clave
-Se realizó un análisis detallado de las principales variables para identificar patrones y distribuciones.
-Evolucion de internet
-El gráfico muestra la evolución de los accesos a distintas tecnologías de conexión a internet entre 2014 y 2024.
+Se implementaron diversas técnicas para explorar y comprender los datos, asegurando su calidad y relevancia.
 
-"C:\Users\yanin\OneDrive\Desktop\proyecto 2\archivos\imagenes\imagen1.png" 
-![alt text](image.png)
+🔹 1. Limpieza y Preprocesamiento
 
+✅ Eliminación de valores nulos y duplicados.
+✅ Estandarización de formatos (fechas, nombres de provincias).
+✅ Creación de variables binarias para disponibilidad de tecnologías.
 
-Conclusión:La fibra óptica se ha convertido en la tecnología dominante, desplazando al ADSL y superando al Cablemodem. Esto refleja una tendencia global hacia conexiones más rápidas y estables.
-Velocidad:
-El gráfico es un mapa de calor que muestra la velocidad de bajada por provincia y año en Argentina, desde 2014 hasta 2024. Los colores azules indican las velocidades de bajada más bajas, mientras que los colores más cercanos al rojo representan velocidades más altas.
-![alt text](image-1.png)
-Conclusiones:
+🔹 2. Análisis Descriptivo de Variables Clave
 
-Mejora en la conectividad: A medida que avanza el tiempo, especialmente desde 2020, la mayoría de las provincias muestran un aumento en la velocidad de bajada de la conexión a Internet, reflejando un mejoramiento general en la infraestructura de internet en el país.
+📌 Evolución de Internet (2014-2024)
 
-Desigualdad en la mejora: Aunque hay un aumento general en la velocidad de bajada, algunas provincias, como Tierra del Fuego y Mendoza, presentan años con velocidades más bajas en comparación con otras provincias. Esto puede reflejar desigualdad en el acceso o en la calidad de la infraestructura.
+Conclusión: La fibra óptica ha desplazado al ADSL y al Cablemódem, evidenciando una transición hacia conexiones más rápidas y estables.
 
-Concentración en años recientes: En los últimos años, la mayoría de las provincias presentan valores de velocidad de bajada más altos, lo que sugiere una expansión en el acceso a tecnologías más rápidas, como fibra óptica o 4G/5G.
-
-
-Este tipo de mapa es útil para visualizar rápidamente las tendencias regionales en el tiempo, destacando la evolución de la iLa gráfica es una gráfica de líneas que muestra la evolución de los ingresos a lo largo del tiempo en miles de pesos.
+📌 Velocidad de Bajada por Provincia (2014-2024)
 
 Conclusiones:
 
-1. Crecimiento exponencial hasta 2025: Se observa un aumento progresivo de los ingresos desde los primeros años hasta 2025, con un crecimiento acelerado a partir de 2022. Esto podría estar relacionado con un auge económico, mejoras en el sector o un incremento en la demanda.
-![alt text](image-4.png)
+Desde 2020, la mayoría de las provincias han incrementado su velocidad de bajada, reflejando mejoras en infraestructura.
 
-Es importante analizar los factores detrás de esta caída para entender si es una fluctuación temporal o una tendencia estructural.nfraestructura tecnológica en distintas zonas.
+Persisten desigualdades en algunas regiones, como Tierra del Fuego y Mendoza.
 
+Se observa una aceleración en la adopción de tecnologías más rápidas (Fibra Óptica, 4G/5G).
 
-3. Evaluación de Correlaciones y Patrones
-🔍 Se analizaron correlaciones entre variables clave, identificando relaciones como:
+📌 Ingresos en Telecomunicaciones
+
+Conclusión: Crecimiento exponencial de ingresos hasta 2025, con un fuerte aumento a partir de 2022.
+
+🔹 3. Evaluación de Correlaciones y Patrones
+
+🔍 Hallazgos clave:
 
 Alta correlación entre ingresos y cantidad de accesos en telefonía móvil e Internet.
-Tendencia negativa en la penetración de telefonía fija, reflejando la transición a tecnologías móviles.
 
+Tendencia negativa en la penetración de telefonía fija, reflejando la migración a tecnologías móviles.
 
-## Dashboard Interactivo
-Se desarrolló un dashboard utilizando [Power BI ] para visualizar los principales indicadores del sector de telecomunicaciones. Algunas de las visualizaciones incluidas son:
-- Evolución temporal de los indicadores clave.
-- Comparaciones de KPIs entre distintas categorías.
+📊 Dashboard Interactivo
 
+Se desarrolló un dashboard en Power BI para visualizar indicadores clave, incluyendo:
+
+📈 Evolución temporal de accesos e ingresos.
+
+📊 Comparaciones de KPIs entre distintas categorías.
+
+🌍 Mapas de conectividad y cobertura.
+
+📌 Accede al dashboard en el archivo: proyecto-telecomunicaciones.pbix
+
+📌 Conclusiones
+
+🔹 La fibra óptica es la tecnología dominante en Argentina.
+🔹 Se observan mejoras en la velocidad de conexión, aunque persisten desigualdades regionales.
+🔹 Los ingresos en telecomunicaciones han crecido exponencialmente en los últimos años.
+🔹 La telefonía fija continúa en declive debido a la adopción de tecnologías móviles.
+
+📢 Próximos pasos:
+
+Profundizar en análisis de accesibilidad y costos.
+
+Explorar tendencias en consumo de datos móviles.
+
+Integrar modelos predictivos para estimar el crecimiento del sector.
 
