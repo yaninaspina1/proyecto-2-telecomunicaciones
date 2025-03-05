@@ -123,7 +123,7 @@ Persisten desigualdades en algunas regiones, como Tierra del Fuego y Mendoza.
 Se observa una aceleración en la adopción de tecnologías más rápidas (Fibra Óptica, 4G/5G).
 
 📌 Ingresos en Telecomunicaciones
-https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/blob/main/image-3.png
+![image]https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/blob/main/image-3.png
 Conclusión: Crecimiento exponencial de ingresos hasta 2025, con un fuerte aumento a partir de 2022.
 
 🔹 3. Evaluación de Correlaciones y Patrones
