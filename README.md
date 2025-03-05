@@ -94,8 +94,7 @@ El archivo que estás leyendo. Contiene la descripción del proyecto, objetivos,
 - **Control de Versiones**: Git/GitHub
 
 
-```
-## Análisis de Datos
+```## Análisis de Datos
 Se implementaron diversas técnicas para explorar y comprender los datos, asegurando su calidad y relevancia para el análisis.
 
 1. Limpieza y Preprocesamiento de Datos
@@ -146,16 +145,4 @@ Se desarrolló un dashboard utilizando [Power BI ] para visualizar los principal
 - Evolución temporal de los indicadores clave.
 - Comparaciones de KPIs entre distintas categorías.
 
-
-   ```
-
-## Contribuciones
-Si deseas contribuir a este proyecto, siéntete libre de hacer un fork, realizar mejoras y enviar un pull request.
-
-## Contacto
-Yanina Spina  
-[LinkedIn](https://www.linkedin.com/in/yaninaspina)  
-[GitHub](https://github.com/YaninaSpina)
-
----
 
