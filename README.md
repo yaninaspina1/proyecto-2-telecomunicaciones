@@ -111,6 +111,8 @@ https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/blob/main/image-1.
 Conclusión: La fibra óptica ha desplazado al ADSL y al Cablemódem, evidenciando una transición hacia conexiones más rápidas y estables.
 
 📌 Velocidad de Bajada por Provincia (2014-2024)
+image-1.png
+
 https://github.com/yaninaspina1/proyecto-2-telecomunicaciones/commit/10e8a47e22959afd1509d064c4fc21a915bec32b
 Conclusiones:
 
